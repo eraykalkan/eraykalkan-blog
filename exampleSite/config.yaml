@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Vanilla
+title: Eray's Humble Software Blog
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-123456789-1
 
@@ -45,5 +45,5 @@ params:
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-  homeText: Welcome to the my blog. Have a look around. Maybe even eat some ice cream.
+  homeText: Welcome to the my blog. You will find some interesting stuff here soon. Have a look around. Maybe even eat some ice cream.
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)

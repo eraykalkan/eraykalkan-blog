@@ -1,16 +1,11 @@
 ---
-date: "2014-04-09"
+date: "2018-01-13"
 title: "About"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hi! I'm Eray. A passionate learner of new things, Senior Java Developer with **OCAJP8** Cert. , Computer Engineer, Car Enthusiast, Hardcore Gamer, Synthwave & Retrowave Fan.
 
-It makes use of a variety of open source projects including:
+You can reach me at:
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* https://www.linkedin.com/in/eraykalkan/
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
