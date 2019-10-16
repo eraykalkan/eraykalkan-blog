@@ -25,17 +25,17 @@ googleAnalytics = "UA-123456789-1"
     weight = 1
   [[menu.main]]
     name = "Java"
-    pre = "edit"
+    pre = "coffee"
     url = "/java/"
     weight = 2
   [[menu.main]]
     name = "Spring Framework"
-    pre = "edit"
+    pre = "feather"
     url = "/spring/"
     weight = 3
   [[menu.main]]
     name = "Git"
-    pre = "edit"
+    pre = "git-commit"
     url = "/git/"
     weight = 4  
   [[menu.main]]
