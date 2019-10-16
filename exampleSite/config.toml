@@ -24,7 +24,7 @@ googleAnalytics = "UA-123456789-1"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Blog"
+    name = "Java"
     pre = "edit"
     url = "/post/"
     weight = 2
@@ -49,4 +49,4 @@ googleAnalytics = "UA-123456789-1"
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Welcome to the my software blog. You will find stuff mostly about Java and frameworks that use Java. Check Blogs frequently to keep up-to-date"
+  homeText = "Welcome to the my software blog. You will find stuff mostly about Java and frameworks that use Java. Check Java section frequently to keep up-to-date"
