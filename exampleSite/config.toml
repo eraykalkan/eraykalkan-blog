@@ -49,4 +49,4 @@ googleAnalytics = "UA-123456789-1"
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Welcome to the my software blog. The site may seem a bit plain but it serves its purpose and it is bandwith friendly :smiley: You will find stuff mostly about Java and frameworks that use Java. Check Java section frequently to keep up-to-date"
+  homeText = "Welcome to the my software blog. The site may seem a bit plain but it serves its purpose and it is bandwith friendly. You will find stuff mostly about Java and frameworks that use Java. This is a newly born blog so feel free to check it again in a few days if you can't find what you're looking for as I'm planning to cover from fundamental stuff to advanced level stuff"
