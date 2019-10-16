@@ -1,3 +1,5 @@
 ---
-title: Java
+title: Java Blog
+
+
 ---
