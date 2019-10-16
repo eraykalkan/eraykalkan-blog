@@ -18,7 +18,7 @@ Let's clear up that confusion and have a grasp on core concepts of Java.
 
 Usually people start by explaining what JDK is then proceed with JVM, but there is this term called **"Platform Independency"** which once was (maybe still is) motto of Java Language. The term is abused so much that everyone has forgot about why Java is also so popular and powerful. It's been an **open-source** language for quite some time. Things are changing however it is not this post's topic.
 
-Enough with the chit chat. Java Virtual Machine is what makes Java platform dependent. Let me explain how;
+Enough with the chit chat. Java Virtual Machine is what makes Java platform independent. Let me explain how;
 In order a computer to **run** a program, first the computer needs to understand what's going on and computers talk machine language. This is where the JVM comes in play. JVM transforms/converts byte code to machine understandable code. It also provides some vital functions of the language which involve in memory management, security, garbage collection.
 JVM is also configurable and customizable according to needs of the program that are being developed. Beware: Your Java program lives in JVM and has the boundaries that are set by JVM.
 Since it is basically a virtual machine, it is independent from OS and hardware on the computer it is working.
