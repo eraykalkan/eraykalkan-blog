@@ -4,8 +4,6 @@ tags: ["jdk", "jre", "jvm"]
 title: "JDK, JVM ,JRE - The Three Musketeers"
 ---
 
-# JDK, JVM, JRE - The Three Musketeers
-
 You may or may not have heard of those abbreviations and they are often neglected by most developers. You can tell yourself what you are supposed to do with that information or what is going to change on your life if you know what they do or how they work.
 
 However, knowing those things or at least having a little bit idea of why they are here can be life saving in some situations.
