@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://eraykalkan.com"
 languageCode = "en-us"
 title = "Eray's Humble Software Blog"
 theme = "vanilla-bootstrap-hugo-theme"
@@ -49,5 +49,4 @@ googleAnalytics = "UA-123456789-1"
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Welcome to the my blog. You will find some interesting stuff here soon. Have a look around. Maybe even eat some ice cream."
-  footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
+  homeText = "Welcome to the my software blog. You will find stuff mostly about Java and frameworks that use Java. Check "Blogs" frequently to keep up-to-date "
