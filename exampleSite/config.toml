@@ -26,22 +26,22 @@ googleAnalytics = "UA-123456789-1"
   [[menu.main]]
     name = "Java"
     pre = "edit"
-    url = "/post/"
+    url = "/java/"
     weight = 2
   [[menu.main]]
     name = "Spring Framework"
     pre = "edit"
-    url = "/post/"
+    url = "/spring/"
     weight = 3
   [[menu.main]]
     name = "Git"
     pre = "edit"
-    url = "/post/"
+    url = "/git/"
     weight = 4  
   [[menu.main]]
-    name = "Java"
+    name = "Misc"
     pre = "edit"
-    url = "/post/"
+    url = "/misc/"
     weight = 5    
   [[menu.main]]
     name = "Tags"
