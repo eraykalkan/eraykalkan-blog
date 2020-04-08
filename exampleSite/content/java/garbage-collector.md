@@ -86,9 +86,9 @@ One of the most important feature of Java is automatic garbage collection. It is
 
 Mainly this process involves in three steps:
 
-    - Marking: In this first step, garbage collector identifies which objects are referenced and which are not.
-    - Normal Deletion: Garbage collector deletes unusued / unreferenced objects and allocates space for other newly created objects.
-    - Deletion with compacting: After deletion takes place, all survived objects are moved together in order to increase memory allocation process for newer objects.
+- Marking: In this first step, garbage collector identifies which objects are referenced and which are not.
+- Normal Deletion: Garbage collector deletes unusued / unreferenced objects and allocates space for other newly created objects.
+- Deletion with compacting: After deletion takes place, all survived objects are moved together in order to increase memory allocation process for newer objects.
     
 As we have mentioned above, the JVM reserves a separate thread (a daemon thread) to perform garbage collection and garbage collection in Java consists of minor GC and major GC.
 
@@ -103,8 +103,8 @@ If the minor GC is performed many times, naturally it will result in filling up 
 
 There are several ways that the Garbage Collection is triggered:
 
-    - JVM decides (if tenured space is not enough)
-    - If we call it manually (System.gc(), Runtime.getRuntime().gc()) however, this does not guarantee that it will perform GC immediately. It is just a suggestion that JVM should trigger it.
-    - If "MaxMetaspaceSize" JVM option is set and there isn't adeaquate space to load new classes, then major GC is triggered by JVM
+- JVM decides (if tenured space is not enough)
+- If we call it manually (System.gc(), Runtime.getRuntime().gc()) however, this does not guarantee that it will perform GC immediately. It is just a suggestion that JVM should trigger it.
+- If "MaxMetaspaceSize" JVM option is set and there isn't adeaquate space to load new classes, then major GC is triggered by JVM
 
 There will be detailed topics about Garbage Collection in Java in near future. So, stay tuned!
