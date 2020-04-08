@@ -4,6 +4,9 @@ title = "Eray's Humble Software Blog"
 theme = "vanilla-bootstrap-hugo-theme"
 googleAnalytics = "UA-123456789-1"
 
+enableRobotsTXT = true
+canonifyURLs = true
+
 # Uncomment below to enable syntax highlighting
 # pygmentsCodefences = true
 # pygmentsCodefencesGuessSyntax = true
