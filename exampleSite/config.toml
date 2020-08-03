@@ -47,30 +47,25 @@ canonifyURLs = true
     url = "/algorithms/"
     weight = 5
   [[menu.main]]
-    name = "Algorithms"
-    pre = "edit"
-    url = "/algorithms/"
-    weight = 6
-  [[menu.main]]
     name = "C++"
     pre = "cuttlefish"
     url = "/cplusplus/"
-    weight = 7
+    weight = 6
   [[menu.main]]
     name = "Unreal Engine"
     pre = "cubes"
     url = "/unrealengine/"
-    weight = 8
+    weight = 7
   [[menu.main]]
     name = "About"
     pre = "smile"
     url = "/about/"
-    weight = 9
+    weight = 8
   [[menu.main]]
     name = "RSS"
     pre = "rss"
     url = "/index.xml"
-    weight = 10
+    weight = 9
 [params]
   includeBootstrapJs = false
   showActiveNav = true
