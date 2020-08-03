@@ -40,17 +40,17 @@ canonifyURLs = true
     name = "Git"
     pre = "git-commit"
     url = "/git/"
-    weight = 4  
+    weight = 4
   [[menu.main]]
     name = "Algorithms"
     pre = "edit"
     url = "/algorithms/"
-    weight = 5   
+    weight = 5
   [[menu.main]]
     name = "Algorithms"
     pre = "edit"
     url = "/algorithms/"
-    weight = 6   
+    weight = 6
   [[menu.main]]
     name = "C++"
     pre = "cuttlefish"
@@ -60,7 +60,7 @@ canonifyURLs = true
     name = "Unreal Engine"
     pre = "cubes"
     url = "/unrealengine/"
-    weight = 8   
+    weight = 8
   [[menu.main]]
     name = "About"
     pre = "smile"
@@ -71,7 +71,6 @@ canonifyURLs = true
     pre = "rss"
     url = "/index.xml"
     weight = 10
-
 [params]
   includeBootstrapJs = false
   showActiveNav = true
