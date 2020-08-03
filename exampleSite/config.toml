@@ -42,25 +42,35 @@ canonifyURLs = true
     url = "/git/"
     weight = 4  
   [[menu.main]]
-    name = "Misc"
+    name = "Algorithms"
     pre = "edit"
-    url = "/misc/"
-    weight = 5    
+    url = "/algorithms/"
+    weight = 5   
   [[menu.main]]
-    name = "Tags"
+    name = "Algorithms"
+    pre = "edit"
+    url = "/algorithms/"
+    weight = 6   
+  [[menu.main]]
+    name = "C++"
     pre = "tag"
-    url = "/tags/"
-    weight = 6
+    url = "/cplusplus/"
+    weight = 7
+  [[menu.main]]
+    name = "Unreal Engine"
+    pre = "edit"
+    url = "/unrealengine/"
+    weight = 8   
   [[menu.main]]
     name = "About"
     pre = "smile"
     url = "/about/"
-    weight = 7
+    weight = 9
   [[menu.main]]
     name = "RSS"
     pre = "rss"
     url = "/index.xml"
-    weight = 8
+    weight = 10
 
 [params]
   includeBootstrapJs = false
