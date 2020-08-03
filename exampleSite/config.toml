@@ -53,7 +53,7 @@ canonifyURLs = true
     weight = 6   
   [[menu.main]]
     name = "C++"
-    pre = "tag"
+    pre = "cuttlefish"++
     url = "/cplusplus/"
     weight = 7
   [[menu.main]]
