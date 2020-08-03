@@ -1,5 +1,5 @@
 ---
-date: "2020-08-04"
+date: "2020-08-03"
 tags: ["algorithm", "algorithms", "programming"]
 title: "What is this thing called an Algorithm"
 ---
