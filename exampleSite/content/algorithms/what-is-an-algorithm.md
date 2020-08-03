@@ -1,10 +1,8 @@
 ---
 date: "2020-08-03"
 tags: ["algorithm", "algorithms", "programming"]
-title: "What is Algorithm?"
+title: "What is an Algorithm?"
 ---
-
-## What is thing called an Algorithm?
 
 In an informal way: It is a procedure or set of procedures, working in such a way that you need to specify what are you trying to achieve step-by-step. You will need to be explaining like you are telling a story to a 5 year old :)
 
