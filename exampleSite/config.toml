@@ -53,12 +53,12 @@ canonifyURLs = true
     weight = 6   
   [[menu.main]]
     name = "C++"
-    pre = "fa-cuttlefish"
+    pre = "cuttlefish"
     url = "/cplusplus/"
     weight = 7
   [[menu.main]]
     name = "Unreal Engine"
-    pre = "edit"
+    pre = "cubes"
     url = "/unrealengine/"
     weight = 8   
   [[menu.main]]
