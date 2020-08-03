@@ -1,7 +1,7 @@
 ---
 date: "2020-08-04"
 tags: ["algorithm", "algorithms", "programming"]
-title: "What is this thing called \"Algorithm\""
+title: "What is this thing called Algorithm"
 ---
 
 ## What is an Algorithm?
