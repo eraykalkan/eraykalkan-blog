@@ -19,4 +19,4 @@ The merge sort is also one of those algorithms that follow this approach.
 **Conquer**: Perform the algorithm. Sort the two sub-sets recursively using merge sort.
 **Combine**: Merge two sorted sub-sets and produce the result.
 
-Recursion halts when the set to be sorted has 1 element left since it is already sorted, there is no work to be done.
+Recursion halts when the set to be sorted has 1 element left since it is already sorted, there is no work to be done. 
